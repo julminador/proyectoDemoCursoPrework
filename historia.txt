@@ -1,0 +1,11 @@
+Esta es la historia de Julian Sanchez
+
+Julian Sanchez tiene 21 años y nació en Colombia,
+Está tomando un curso en Platzi
+
+Hoy hablaremos de su historia
+
+Quiero ver que pasa con el add de la línea 8
+y 9 cuando vuelvo con git reset --soft
+
+Es alto pero le gustaría ser más alto
