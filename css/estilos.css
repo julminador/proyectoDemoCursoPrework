@@ -27,16 +27,6 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-#container h1{
-    font-size: 20px;
-}
-#titulo{
-    background-color: black;
-    color: white;
-}
-#titulo h3{
-    display: inline;
-}
 #footer{
     background: yellowgreen;
     text-align: center;
